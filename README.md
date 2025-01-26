@@ -27,3 +27,9 @@ I aim to build scalable, efficient, and innovative solutions for real-world prob
 
 ### 📩 Get in Touch
 📧 Email me at **[vinitvaishya200@gmail.com]** to discuss collaboration or consultation opportunities.
+
+---
+
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinitvaishya&layout=compact&theme=radical)
+
