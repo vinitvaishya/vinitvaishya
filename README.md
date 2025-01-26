@@ -31,10 +31,12 @@ I aim to build scalable, efficient, and innovative solutions for real-world prob
 ---
 
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vinitvaishya&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinitvaishya&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vinitvaishya&show_icons=true&theme=radical)  
 
-## GitHub Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=vinitvaishya&theme=github)
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinitvaishya&layout=compact&theme=radical)
+
+
 
 
 
