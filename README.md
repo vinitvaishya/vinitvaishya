@@ -1,6 +1,6 @@
-## Hi there 👋 Welcome !!
+## Hii there 👋 Welcome !!!
 
-I'm **[VINIT VAISHYA]**, a passionate **Software Developer** with experience in:
+I'm **VINIT VAISHYA**, a passionate **Software Developer** with experience in:
 - 💻 Full Stack Development
 - 🧠 Machine Learning & AI
 - 📊 Data Engineering & Analytics
@@ -14,8 +14,7 @@ I aim to build scalable, efficient, and innovative solutions for real-world prob
 
 ### 🌟 Connect with Me
 - 🌐 **Portfolio**: (https://vaishyavinkam21bit.wixsite.com/portfolio-1)
-- 📝 **Blog**: [yourblog.com](https://yourblog.com)
-- 🧑‍💼 **LinkedIn**: http://www.linkedin.com/in/vinit-vaishya-340092224
+- 🧑‍💼 **LinkedIn**: (http://www.linkedin.com/in/vinit-vaishya-340092224)
 ---
 
 ### 🔧 Technologies & Tools
