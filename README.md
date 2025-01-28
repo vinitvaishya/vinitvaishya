@@ -7,7 +7,7 @@ I'm **VINIT VAISHYA**, a passionate **Software Developer** with experience in:
 - 🛠️ System Design and Distributed Systems
 
 ### 🚀 My Mission
-I aim to build scalable, efficient, and innovative solutions for real-world problems, contributing to the open-source community and sharing knowledge with fellow developers.
+I aim to build scalable, efficient, and innovative solutions for real-world problems.
 
 ---
 
